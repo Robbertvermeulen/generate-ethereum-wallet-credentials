@@ -1,0 +1,6 @@
+{
+   "dependencies": {
+      "web3": "latest",
+      "ethereumjs-util": "latest"
+   }
+}
